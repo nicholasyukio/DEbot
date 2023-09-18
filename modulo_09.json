@@ -1,0 +1,69 @@
+{
+    "aulas": [
+      {
+        "lesson": "Semicondutores – Introdução",
+        "duration": "44:46"
+      },
+      {
+        "lesson": "Junção PN e o diodo",
+        "duration": "50:45"
+      },
+      {
+        "lesson": "Diodos especiais",
+        "duration": "27:40"
+      },
+      {
+        "lesson": "Transistor Bipolar de Junção (BJT)",
+        "duration": "01:26:23"
+      },
+      {
+        "lesson": "[Documentário Legendado] The transistor",
+        "duration": "09:36"
+      },
+      {
+        "lesson": "Transistor MOSFET",
+        "duration": "01:16:39"
+      },
+      {
+        "lesson": "Outros transistores: JFET, HBT, HEMT, MESFET, IGBT",
+        "duration": "23:07"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Diodo e Equivalente Thévenin",
+        "duration": "14:46"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Circuito com dois diodos e fonte de corrente",
+        "duration": "14:51"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Análise iterativa de tensão e corrente em diodo",
+        "duration": "15:23"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Circuitos com um transistor BJT",
+        "duration": "14:22"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Circuito com transistor BJT",
+        "duration": "07:37"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Circuito com dois transistores BJT",
+        "duration": "27:44"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: Transistor MOSFET saturado",
+        "duration": "11:15"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Projeto de circuito simples com MOSFET",
+        "duration": "14:19"
+      },
+      {
+        "lesson": "Exercício Resolvido #09: Circuito com dois MOSFETs e resistor",
+        "duration": "12:03"
+      }
+    ]
+  }
+  

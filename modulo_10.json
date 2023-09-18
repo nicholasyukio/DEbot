@@ -1,0 +1,45 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução a Circuitos Analógicos",
+        "duration": "32:02"
+      },
+      {
+        "lesson": "Detalhes sobre implementação prática",
+        "duration": "34:48"
+      },
+      {
+        "lesson": "Resposta em Frequência e Diagrama de Bode",
+        "duration": "58:03"
+      },
+      {
+        "lesson": "Análise DC, Ponto de Operação, Análise AC e Pequenos Sinais",
+        "duration": "49:17"
+      },
+      {
+        "lesson": "Amplificadores Operacionais",
+        "duration": "01:19:18"
+      },
+      {
+        "lesson": "Circuito Analógico: Conversor Digital Analógico R/2R",
+        "duration": "41:28"
+      },
+      {
+        "lesson": "Circuito Analógico: Schmitt Trigger (Multivibradores biestável e astável com amp-op)",
+        "duration": "57:53"
+      },
+      {
+        "lesson": "Circuito Analógico: Filtros elétricos passivos e ativos",
+        "duration": "53:32"
+      },
+      {
+        "lesson": "Circuito Analógico: Amplificador com BJT",
+        "duration": "1:19:05"
+      },
+      {
+        "lesson": "Circuito Analógico: Oscilador com ponte de Wien",
+        "duration": "57:58"
+      }
+    ]
+  }
+  

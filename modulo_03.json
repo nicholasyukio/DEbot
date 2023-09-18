@@ -1,0 +1,125 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução à Análise de Circuitos",
+        "duration": "08:55"
+      },
+      {
+        "lesson": "Análise Nodal: tensão de nó",
+        "duration": "14:42"
+      },
+      {
+        "lesson": "Análise Nodal: tensão de nó (exemplo)",
+        "duration": "07:57"
+      },
+      {
+        "lesson": "Análise Nodal: sem fontes de tensão",
+        "duration": "16:23"
+      },
+      {
+        "lesson": "Análise Nodal: sem fontes de tensão (exemplo)",
+        "duration": "25:55"
+      },
+      {
+        "lesson": "Análise Nodal: com fontes de tensão",
+        "duration": "20:19"
+      },
+      {
+        "lesson": "Análise de Malhas: corrente de malha",
+        "duration": "12:47"
+      },
+      {
+        "lesson": "Análise de Malhas: corrente de malha (exemplo)",
+        "duration": "10:50"
+      },
+      {
+        "lesson": "Análise de Malhas: sem fontes de corrente",
+        "duration": "14:31"
+      },
+      {
+        "lesson": "Análise de Malhas: sem fontes de corrente (exemplo)",
+        "duration": "20:52"
+      },
+      {
+        "lesson": "Análise de Malhas: com fontes de corrente",
+        "duration": "18:41"
+      },
+      {
+        "lesson": "Análise Nodal e de Malhas – qual escolher?",
+        "duration": "13:07"
+      },
+      {
+        "lesson": "Supernó e supermalha",
+        "duration": "20:05"
+      },
+      {
+        "lesson": "Linearidade em Circuitos Elétricos",
+        "duration": "16:57"
+      },
+      {
+        "lesson": "Teorema da Superposição",
+        "duration": "21:54"
+      },
+      {
+        "lesson": "Teorema da Superposição (exemplo)",
+        "duration": "22:45"
+      },
+      {
+        "lesson": "Transformação de Fontes",
+        "duration": "24:05"
+      },
+      {
+        "lesson": "Equivalentes Thévenin e Norton",
+        "duration": "37:00"
+      },
+      {
+        "lesson": "Potência em um resistor",
+        "duration": "18:45"
+      },
+      {
+        "lesson": "Verificação da resposta por simulação no LTSpice",
+        "duration": "32:38"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Análise Nodal",
+        "duration": "17:52"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Análise Nodal",
+        "duration": "27:11"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Análise de Malhas",
+        "duration": "20:06"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Análise de Malhas",
+        "duration": "15:34"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Linearidade",
+        "duration": "06:02"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Teorema da Superposição",
+        "duration": "37:51"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: Transformação de Fontes",
+        "duration": "10:55"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Equivalente Thévenin",
+        "duration": "11:15"
+      },
+      {
+        "lesson": "Exercício Resolvido #09: Equivalente Norton",
+        "duration": "06:06"
+      },
+      {
+        "lesson": "Exercício Resolvido #10: Máxima Transferência de Potência",
+        "duration": "14:16"
+      }
+    ]
+  }
+  

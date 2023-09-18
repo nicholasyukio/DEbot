@@ -1,0 +1,33 @@
+{
+    "aulas": [
+      {
+        "lesson": "Conceitos Básicos | Conhecendo componentes, equipamentos e fazendo medidas",
+        "duration": ""
+      },
+      {
+        "lesson": "Análise Básica de Circuitos | Conversor DAC R/2R",
+        "duration": ""
+      },
+      {
+        "lesson": "Circuitos de Primeira Ordem | Circuito RC e Schmitt Trigger",
+        "duration": ""
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem e Regime Permanente Senoidal | Circuito RLC Série | Tensões Altas",
+        "duration": ""
+      },
+      {
+        "lesson": "Análise Avançada de Circuitos | Filtro RLC e Série de Fourier",
+        "duration": ""
+      },
+      {
+        "lesson": "Circuitos Analógicos | Projeto e montagem de um amplificador com BJT na configuração emissor comum",
+        "duration": ""
+      },
+      {
+        "lesson": "Circuitos Digitais | Projeto e montagem de um circuito combinacional com portas lógicas TTL",
+        "duration": ""
+      }
+    ]
+  }
+  

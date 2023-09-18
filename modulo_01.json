@@ -1,0 +1,77 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução a Circuitos Elétricos",
+        "duration": "03:49"
+      },
+      {
+        "lesson": "Sistemas de Unidades/Múltiplos e Submúltiplos",
+        "duration": "10:12"
+      },
+      {
+        "lesson": "Carga Elétrica",
+        "duration": "20:38"
+      },
+      {
+        "lesson": "Corrente Elétrica",
+        "duration": "24:57"
+      },
+      {
+        "lesson": "Tensão Elétrica",
+        "duration": "22:12"
+      },
+      {
+        "lesson": "Circuito Elétrico Simples",
+        "duration": "05:50"
+      },
+      {
+        "lesson": "Potência Elétrica e Energia Elétrica",
+        "duration": "37:02"
+      },
+      {
+        "lesson": "Circuito Elétrico e seus elementos",
+        "duration": "15:32"
+      },
+      {
+        "lesson": "Lei de Ohm",
+        "duration": "20:04"
+      },
+      {
+        "lesson": "Curto-circuito e circuito aberto",
+        "duration": "06:29"
+      },
+      {
+        "lesson": "Nós, ramos e Malhas",
+        "duration": "05:11"
+      },
+      {
+        "lesson": "Lei de Kirchhoff das Correntes",
+        "duration": "09:15"
+      },
+      {
+        "lesson": "Lei de Kirchhoff das Tensões",
+        "duration": "10:30"
+      },
+      {
+        "lesson": "Resistores em série e divisão de tensão",
+        "duration": "13:17"
+      },
+      {
+        "lesson": "Resistores em paralelo e divisão de corrente",
+        "duration": "14:22"
+      },
+      {
+        "lesson": "Associação de Resistores",
+        "duration": "22:41"
+      },
+      {
+        "lesson": "Exercícios Resolvidos (#1 ao #5)",
+        "duration": "28:04"
+      },
+      {
+        "lesson": "Exercícios Resolvidos (#6 ao #10)",
+        "duration": "36:39"
+      }
+    ]
+  }
+  

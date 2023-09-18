@@ -1,0 +1,61 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução aos circuitos digitais",
+        "duration": "22:48"
+      },
+      {
+        "lesson": "Implementação de Circuitos Digitais",
+        "duration": "22:27"
+      },
+      {
+        "lesson": "Sistemas de Numeração e Códigos",
+        "duration": "44:21"
+      },
+      {
+        "lesson": "Portas Lógicas",
+        "duration": "33:37"
+      },
+      {
+        "lesson": "Lógica Booleana",
+        "duration": "26:24"
+      },
+      {
+        "lesson": "Circuitos Combinacionais",
+        "duration": "49:35"
+      },
+      {
+        "lesson": "CMOS – Implementação de funções lógicas com transistores MOS",
+        "duration": "22:29"
+      },
+      {
+        "lesson": "Latch e Flip-flop",
+        "duration": "49:14"
+      },
+      {
+        "lesson": "Circuitos Sequenciais",
+        "duration": "25:47"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Conversão de número de binário para decimal e vice-versa",
+        "duration": "8:57"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Simplificação de expressões lógicas",
+        "duration": "9:10"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Implementação com portas lógicas",
+        "duration": "8:37"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Tabela-verdade",
+        "duration": "17:23"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Mapa de Karnaugh",
+        "duration": "13:02"
+      }
+    ]
+  }
+  

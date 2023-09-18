@@ -1,0 +1,73 @@
+{
+    "aulas": [
+      {
+        "lesson": "Circuitos de Segunda Ordem: Introdução, Simulação e Aplicações",
+        "duration": "26:14"
+      },
+      {
+        "lesson": "Valores iniciais, finais e continuidade",
+        "duration": "27:38"
+      },
+      {
+        "lesson": "Escrevendo EDOs para circuitos de segunda ordem",
+        "duration": "33:21"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem sem fontes – tipos de resposta",
+        "duration": "40:38"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem: Resposta Super-amortecida",
+        "duration": "31:39"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem: Resposta criticamente amortecida",
+        "duration": "28:43"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem: Resposta sub-amortecida",
+        "duration": "40:54"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem: Comparação entre as respostas",
+        "duration": "27:55"
+      },
+      {
+        "lesson": "Circuitos de Segunda Ordem com fontes constantes",
+        "duration": "01:09:25"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Continuidade da Tensão e da Corrente",
+        "duration": "24:40"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Resolução de EDO no caso crítico",
+        "duration": "07:50"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: RLC super-amortecido",
+        "duration": "25:56"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Circuito LC",
+        "duration": "18:49"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: RLC paralelo – sub-amortecida",
+        "duration": "08:42"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Circuito RLC",
+        "duration": "42:11"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: LC, degrau",
+        "duration": "20:42"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Circuito RLC",
+        "duration": "36:42"
+      }
+    ]
+  }
+  

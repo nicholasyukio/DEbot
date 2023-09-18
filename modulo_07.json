@@ -1,0 +1,81 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução a Circuitos Trifásicos",
+        "duration": "15:39"
+      },
+      {
+        "lesson": "Tensões Trifásicas",
+        "duration": "18:47"
+      },
+      {
+        "lesson": "Circuito Trifásico Equilibrado e Conexões",
+        "duration": "13:33"
+      },
+      {
+        "lesson": "Termos Usados",
+        "duration": "37:33"
+      },
+      {
+        "lesson": "Circuito Estrela-Estrela Equilibrado",
+        "duration": "33:12"
+      },
+      {
+        "lesson": "Circuito Monofásico Equivalente",
+        "duration": "10:46"
+      },
+      {
+        "lesson": "Circuito Estrela-Triângulo Equilibrado",
+        "duration": "23:07"
+      },
+      {
+        "lesson": "Circuito Triângulo-Estrela Equilibrado",
+        "duration": "19:39"
+      },
+      {
+        "lesson": "Circuito Triângulo-Triângulo Equilibrado",
+        "duration": "23:09"
+      },
+      {
+        "lesson": "Aplicações dos Conceitos de Circuitos Trifásicos",
+        "duration": "14:48"
+      },
+      {
+        "lesson": "Potência Instantânea em Circuitos Trifásicos",
+        "duration": "21:28"
+      },
+      {
+        "lesson": "Potência Complexa em Circuitos Trifásicos",
+        "duration": "17:41"
+      },
+      {
+        "lesson": "Exemplo de Potência Complexa",
+        "duration": "10:51"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Conceitos Iniciais",
+        "duration": "18:09"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Circuito Estrela-Estrela Equilibrado",
+        "duration": "12:03"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Circuito Estrela-Triângulo Equilibrado",
+        "duration": "16:06"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Circuito Triângulo-Estrela Equilibrado",
+        "duration": "14:06"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Circuito Triângulo-Triângulo Equilibrado",
+        "duration": "16:36"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Potência Complexa e Fator de Potência",
+        "duration": "18:06"
+      }
+    ]
+  }
+  

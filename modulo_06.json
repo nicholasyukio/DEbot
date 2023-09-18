@@ -1,0 +1,101 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução a Circuitos em Corrente Alternada",
+        "duration": "28:16"
+      },
+      {
+        "lesson": "Amplitude, fase, período e frequência",
+        "duration": "51:42"
+      },
+      {
+        "lesson": "Por que regime permanente senoidal?",
+        "duration": "30:02"
+      },
+      {
+        "lesson": "Básico de Números Complexos",
+        "duration": "01:05:04"
+      },
+      {
+        "lesson": "Fasores",
+        "duration": "24:22"
+      },
+      {
+        "lesson": "Impedâncias e Admitâncias",
+        "duration": "38:11"
+      },
+      {
+        "lesson": "Associação de Impedâncias",
+        "duration": "17:37"
+      },
+      {
+        "lesson": "Análise Básica de Circuitos em Corrente Alternada",
+        "duration": "38:11"
+      },
+      {
+        "lesson": "Teorema da Superposição em Corrente Alternada",
+        "duration": "25:22"
+      },
+      {
+        "lesson": "Equivalentes Thévenin e Norton em Corrente Alternada",
+        "duration": "25:08"
+      },
+      {
+        "lesson": "Potência Instantânea e Média",
+        "duration": "29:15"
+      },
+      {
+        "lesson": "Máxima Transferência de Potência",
+        "duration": "27:15"
+      },
+      {
+        "lesson": "Valor Eficaz ou RMS",
+        "duration": "19:17"
+      },
+      {
+        "lesson": "Potência Complexa e Fator de Potência",
+        "duration": "34:49"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Básico de Corrente Alternada",
+        "duration": "09:11"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Impedância e Admitância Equivalente",
+        "duration": "10:18"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Impedância Equivalente de RLC série",
+        "duration": "09:09"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Análise Nodal",
+        "duration": "12:03"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Análise de Malhas",
+        "duration": "15:58"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Teorema da Superposição",
+        "duration": "20:19"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: Equivalentes Thévenin e Norton",
+        "duration": "20:12"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Potência Média",
+        "duration": "15:56"
+      },
+      {
+        "lesson": "Exercício Resolvido #09: Máxima Transferência de Potência",
+        "duration": "16:39"
+      },
+      {
+        "lesson": "Exercício Resolvido #10: Potência Complexa",
+        "duration": "15:33"
+      }
+    ]
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução",
+        "duration": "15:52"
+      },
+      {
+        "lesson": "Fontes de tensão",
+        "duration": "01:06:06"
+      },
+      {
+        "lesson": "Resistores",
+        "duration": "31:09"
+      },
+      {
+        "lesson": "Capacitores",
+        "duration": "01:01:03"
+      },
+      {
+        "lesson": "Indutores e Transformadores",
+        "duration": "01:48:01"
+      },
+      {
+        "lesson": "Componentes Passivos e Ativos",
+        "duration": "47:40"
+      },
+      {
+        "lesson": "Componentes não lineares: Diodos e Transistores",
+        "duration": "01:06:41"
+      }
+    ]
+  }

@@ -1,0 +1,81 @@
+{
+    "aulas": [
+      {
+        "lesson": "Circuitos de Primeira Ordem: Introdução, Simulação e Aplicações",
+        "duration": "38:28"
+      },
+      {
+        "lesson": "Básico de Capacitores e Indutores",
+        "duration": "45:58"
+      },
+      {
+        "lesson": "Circuitos de primeira ordem (RC e RL) sem fontes",
+        "duration": "39:10"
+      },
+      {
+        "lesson": "Circuitos de primeira ordem (RC) com fonte constante",
+        "duration": "33:11"
+      },
+      {
+        "lesson": "Obtenção de uma variável qualquer",
+        "duration": "26:43"
+      },
+      {
+        "lesson": "A constante de tempo",
+        "duration": "33:56"
+      },
+      {
+        "lesson": "Circuitos com comutações",
+        "duration": "49:22"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Associação de Capacitores",
+        "duration": "11:28"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Corrente em um capacitor",
+        "duration": "04:09"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Tensão em um capacitor",
+        "duration": "05:24"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Associação de Indutores",
+        "duration": "11:35"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Tensão em um indutor",
+        "duration": "04:16"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Corrente em um indutor",
+        "duration": "04:35"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: Descarga de um capacitor",
+        "duration": "08:04"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Descarga de Capacitor",
+        "duration": "07:17"
+      },
+      {
+        "lesson": "Exercício Resolvido #09: Duas cargas em um capacitor",
+        "duration": "22:53"
+      },
+      {
+        "lesson": "Exercício Resolvido #10: Energia Armazenada em um Indutor",
+        "duration": "11:59"
+      },
+      {
+        "lesson": "Exercício Resolvido #11: Corrente e Tensão em um circuito RL",
+        "duration": "13:54"
+      },
+      {
+        "lesson": "Exercício Resolvido #12: Energia Armazenada em um indutor",
+        "duration": "13:21"
+      }
+    ]
+  }
+  

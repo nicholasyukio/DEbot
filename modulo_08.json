@@ -1,0 +1,101 @@
+{
+    "aulas": [
+      {
+        "lesson": "Introdução à Análise Avançada de Circuitos",
+        "duration": "31:52"
+      },
+      {
+        "lesson": "Funções de Singularidade: Degrau, Impulso e Rampa",
+        "duration": "30:07"
+      },
+      {
+        "lesson": "Transformada de Laplace: Definição",
+        "duration": "34:41"
+      },
+      {
+        "lesson": "Transformada de Laplace: Propriedades",
+        "duration": "47:56"
+      },
+      {
+        "lesson": "Transformada de Laplace: Uso na análise de circuitos",
+        "duration": "47:59"
+      },
+      {
+        "lesson": "Aplicações da Transformada de Laplace",
+        "duration": "47:15"
+      },
+      {
+        "lesson": "Série de Fourier: Definição",
+        "duration": "50:06"
+      },
+      {
+        "lesson": "Série de Fourier: uso na análise de circuitos elétricos",
+        "duration": "28:10"
+      },
+      {
+        "lesson": "Série de Fourier: Teorema de Parseval",
+        "duration": "46:58"
+      },
+      {
+        "lesson": "Série de Fourier: Forma Exponencial",
+        "duration": "46:04"
+      },
+      {
+        "lesson": "Transformada de Fourier: Definição",
+        "duration": "56:28"
+      },
+      {
+        "lesson": "Transformada de Fourier: Propriedades",
+        "duration": "48:15"
+      },
+      {
+        "lesson": "Transformada de Fourier: Uso na Análise de Circuitos",
+        "duration": "32:23"
+      },
+      {
+        "lesson": "Transformada de Fourier: Teorema de Parseval",
+        "duration": "41:37"
+      },
+      {
+        "lesson": "Aplicações da Transformada de Fourier",
+        "duration": "50:43"
+      },
+      {
+        "lesson": "Exercício Resolvido #01: Cálculo de transformada de Laplace a partir do gráfico",
+        "duration": "29:16"
+      },
+      {
+        "lesson": "Exercício Resolvido #02: Cálculo de transformada inversa de Laplace usando a tabela",
+        "duration": "16:12"
+      },
+      {
+        "lesson": "Exercício Resolvido #03: Análise de circuitos com a transformada de Laplace",
+        "duration": "19:58"
+      },
+      {
+        "lesson": "Exercício Resolvido #04: Filtro passivo passa-faixas com circuito RLC (Aplicação de Laplace)",
+        "duration": "16:41"
+      },
+      {
+        "lesson": "Exercício Resolvido #05: Cálculo de Série de Fourier",
+        "duration": "26:57"
+      },
+      {
+        "lesson": "Exercício Resolvido #06: Uso da Série de Fourier na análise de circuitos",
+        "duration": "22:31"
+      },
+      {
+        "lesson": "Exercício Resolvido #07: Cálculo de Transformada de Fourier",
+        "duration": "11:47"
+      },
+      {
+        "lesson": "Exercício Resolvido #08: Uso da transformada de Fourier na análise de circuitos",
+        "duration": "16:32"
+      },
+      {
+        "lesson": "Exercício Resolvido #09: Teorema de Parseval",
+        "duration": "15:57"
+      }
+    ]
+  }
+  
